@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Why do I need a blog about software development.
 date: '2013-07-09T13:51:00+02:00'
 tags: []

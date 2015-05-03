@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: “Some people are using the word “refactoring” to describe significant work,
   say, weeks or even months of effort of rework. Sorry, I call that redesign.” Johanna
   Rothman
