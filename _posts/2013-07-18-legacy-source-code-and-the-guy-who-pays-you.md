@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Legacy source code and the "Guy Who Pays You" - Strategy helps you !
 date: '2013-07-18T12:44:00+02:00'
 tags:

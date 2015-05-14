@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: All "Managers" should die - naming properly can save your life.
 date: '2013-08-04T11:10:00+02:00'
 tags:
