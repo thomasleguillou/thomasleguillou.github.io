@@ -1,0 +1,3 @@
+bundle exec jekyll build --trace --watch &
+
+bundle exec jekyll serve --baseurl '/blog' --watch &
