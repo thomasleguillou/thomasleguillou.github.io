@@ -3,7 +3,7 @@ title:       thmsLG
 email:       thomas@leguillou.email
 author:      Thomas Le Guillou
 description: "My simple technical blog"
-baseurl:     "/blog"
+baseurl:     ""
 url:         ""
 
 # Google analytics
