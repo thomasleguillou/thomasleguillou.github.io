@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All "Managers" have to die - naming properly can save your life.
+title: All "Managers" have to die
 date: '2013-08-04T11:10:00+02:00'
 tags:
 - SOLID
@@ -15,14 +15,14 @@ But why this name is always “popping” ?
 
  > [There are only two hard things in Computer Science: cache invalidation and naming things.](http://martinfowler.com/bliki/TwoHardThings.html)
 
-### Because naming is hard and we have to accept that. Naming has to be a team work, BEFORE implementation.
+The easiest word to describe relationship is “manage”. It’s describing a fuzzy relationship between entities. So it’s logical to try to use it at first when something is not clear enough.
 
-The easiest word to describe relationship is “manage”. It’s describing a fuzzy relationship between entities. So it’s logical to try to use it at first when something is not clear.
+### Because naming is hard, naming has to be a team work, BEFORE implementation.
 
 To be honest, when I analyze something on my white board with someone of my team, at first, I say : “I need to manage XXX with that”, but as I know it’s a disease symptom, I just draw a box WITHOUT A NAME. And this reflex simplifies my life. 
 
 ![UMLClassWithoutAName](/images/2013-08-04-ClasseWithoutName.png)
 
-As I don’t write something wrong, I accept that I need to think deeper the responsibility of my class. Then I describe the situation, and it helps me to find the right name. The team as to be trained to detect such situation, admit that you don't currently know names, even your design seems good.
+As I don’t write something wrong, I accept that I need to think deeper the responsibility of my class. Then I describe the situation, and it helps me to find the right name. The team has to be trained to detect such situation, admit that you don't currently know names, even your design seems good.
 
-
+PS : This post is an update of a [previous article]()
