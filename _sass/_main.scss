@@ -14,7 +14,7 @@
 */
 
 body {
-  background-image:url('img-noise-361x370.png');
+  background-image:url('/images/img-noise-361x370.png');
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
@@ -39,6 +39,7 @@ img {
 
 .footer, .site-wrap:after {
   height: 120px;
+  background-image:url('/images/6F6eAzr.png');
 }
 
 body {
@@ -503,7 +504,6 @@ footer {
 footer,
 footer .wrap {
   color: #7a7a7a;
-  background-color: #fafafa;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   clear: both;
