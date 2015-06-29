@@ -59,6 +59,10 @@ body {
   width: 100%;
 }
 
+.site-header {
+  background-image: url("/images/6F6eAzr.png");
+}
+
 .site-header a {
   color: #333;
   font-weight: 300;
@@ -426,6 +430,7 @@ h6,
 
   .site-header {
     text-align: center;
+    color: white;
   }
 
   .site-header .site-title {

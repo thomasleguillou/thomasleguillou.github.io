@@ -4,7 +4,7 @@ email:       thomas@leguillou.email
 author:      Thomas Le Guillou
 description: "My simple technical blog"
 baseurl:     ""
-url:         "http://thomasleguillou.github.io"
+url:         "http://blog.thomasleguillou.fr"
 
 # Google analytics
 google_analytics:
